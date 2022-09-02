@@ -15,4 +15,8 @@ public class newCode {
 	public void happiness() {
 		System.out.println("New Architect making changes");
 	}
+	
+	public void sad() {
+		System.out.println("New developer making changes");
+	}
 }
