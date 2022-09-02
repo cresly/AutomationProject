@@ -11,4 +11,8 @@ public class newCode {
 	public void dance() {
 		System.out.println("Im dancing");
 	}
+	
+	public void happiness() {
+		System.out.println("New Architect making changes");
+	}
 }
